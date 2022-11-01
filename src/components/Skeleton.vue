@@ -10,9 +10,10 @@
             </div>
         </template>
         <template #default>
-            <span>{{TowerNum}}</span>
+            <span>{{ TowerNum }}</span>
         </template>
     </el-skeleton>
+
 </template>
 
 <script setup>
